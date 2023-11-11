@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.quote-container {
+    margin-top: 20px;
+}
+
+#quote {
+    font-style: italic;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+#generate {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
