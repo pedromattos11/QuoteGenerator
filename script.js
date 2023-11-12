@@ -1,20 +1,20 @@
-// Array de citações
+// Array of quotes
 const quotes = [
-    "A vida é aquilo que acontece enquanto você está ocupado fazendo outros planos. - John Lennon",
-    "O único modo de fazer um grande trabalho é amar o que você faz. - Steve Jobs",
-    "Seja a mudança que você deseja ver no mundo. - Mahatma Gandhi",
-    "O sucesso é a soma de pequenos esforços repetidos dia após dia. - Robert Collier",
-    "O segredo da felicidade não está em fazer sempre o que se quer, mas em querer sempre o que se faz. - Léon Tolstói"
+    "Life is what happens while you are busy making other plans. - John Lennon",
+    "The only way to do great work is to love what you do. - Steve Jobs",
+    "Be the change that you wish to see in the world. - Mahatma Gandhi",
+    "Success is the sum of small efforts, repeated day in and day out. - Robert Collier",
+    "Happiness is not in doing what you like, but in liking what you do. - Léon Tolstoy"
 ];
 
-// Função para gerar citação aleatória
+// Function to generate a random quote
 function generateQuote() {
     const randomNumber = Math.floor(Math.random() * quotes.length);
     document.getElementById('quote').textContent = quotes[randomNumber];
 }
 
-// Event listener para o botão
+// Event listener for the button
 document.getElementById('generate').addEventListener('click', generateQuote);
 
-// Gerar uma citação aleatória ao carregar a página
+// Generate a random quote on page load
 generateQuote();
