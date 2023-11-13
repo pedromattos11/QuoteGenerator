@@ -14,7 +14,6 @@ const quotes = [
     "It always seems impossible until it is done. - Nelson Mandela",
     "Happiness is not something readymade. It comes from your own actions. - Dalai Lama",
     "The journey of a thousand miles begins with one step. - Lao Tzu"
-    "H"
 ];
 
 // Function to generate a random quote
