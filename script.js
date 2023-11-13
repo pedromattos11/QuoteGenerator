@@ -16,14 +16,14 @@ const quotes = [
     "The journey of a thousand miles begins with one step. - Lao Tzu"
 ];
 
-// Function to generate a random quote
+// Function to generate a random quote.
 function generateQuote() {
     const randomNumber = Math.floor(Math.random() * quotes.length);
     document.getElementById('quote').textContent = quotes[randomNumber];
 }
 
-// Event listener for the button
+// Event listener for the button.
 document.getElementById('generate').addEventListener('click', generateQuote);
 
-// Generate a random quote on page load
+// Generate a random quote on page load.
 generateQuote();
