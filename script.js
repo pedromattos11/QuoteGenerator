@@ -13,7 +13,23 @@ const quotes = [
     "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt",
     "It always seems impossible until it is done. - Nelson Mandela",
     "Happiness is not something readymade. It comes from your own actions. - Dalai Lama",
-    "The journey of a thousand miles begins with one step. - Lao Tzu"
+    "The journey of a thousand miles begins with one step. - Lao Tzu",
+    "Life is an adventure, not a destination.",
+    "A journey of a thousand miles begins with a single step.",
+    "The only way to do great work is to love what you do.",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "Believe you can and you're halfway there.",
+    "The best way to predict the future is to create it.",
+    "Happiness is a choice, not a result.",
+    "In the middle of every difficulty lies opportunity.",
+    "Don't count the days, make the days count.",
+    "Be yourself, everyone else is already taken.",
+    "The secret of getting ahead is getting started.",
+    "Every moment is a fresh beginning.",
+    "The biggest risk is not taking any risk.",
+    "Life is about making an impact, not making an income.",
+    "The only limit to our realization of tomorrow will be our doubts of today.",
+
 ];
 
 // Function to generate a random quote.
