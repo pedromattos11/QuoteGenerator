@@ -29,7 +29,16 @@ const quotes = [
     "The biggest risk is not taking any risk.",
     "Life is about making an impact, not making an income.",
     "The only limit to our realization of tomorrow will be our doubts of today.",
-
+    "Quem caminha sozinho pode até chegar mais rápido, mas aquele que vai acompanhado, com certeza vai mais longe.",
+    "A persistência é o caminho do êxito.",
+    "O que não provoca minha morte faz com que eu fique mais forte.",
+    "Tudo vale a pena se a alma não é pequena.",
+    "Nada acontece a menos que sonhemos antes.",
+    "Nunca é tarde demais para ser aquilo que sempre se desejou ser.",
+    "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+    "Seja a mudança que você quer ver no mundo.",
+    "Acredite em você, mas não duvide sempre dos outros.",
+    "A vida é curta demais para se preocupar com coisas insignificantes.",
 ];
 
 // Function to generate a random quote.
