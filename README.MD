@@ -20,6 +20,7 @@ This is a straightforward web application programmed with HTML, CSS, and JavaScr
 3. Click the "Generate Quote" button to see a new random quote.
 
 ## Contact with me:
+
 GitHub -> github.com/pedromattos11/
 LinkedIn -> linkedin.com/in/pedro-mattos-09b7271b4/
 Instagram -> instagram.com/matt0sy
