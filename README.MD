@@ -1,4 +1,4 @@
-# Quote Generator:
+# Quote Generator
 
 This is a straightforward web application programmed with HTML, CSS, and JavaScript. The application's user interface is crafted using HTML, while CSS is employed for styling, ensuring a visually appealing presentation. The dynamic functionality, allowing the generation of random quotes upon clicking the 'Generate Quote' button, is implemented using JavaScript. Together, these technologies contribute to a seamless and interactive user experience.
 
