@@ -15,7 +15,7 @@ This is a straightforward web application programmed with HTML, CSS, and JavaScr
 
 ## How to Use:
 
-1. Clone the repository.
+1. Clone the repository
 2. Open the `index.html` file in your web browser.
 3. Click the "Generate Quote" button to see a new random quote.
 
