@@ -4,8 +4,8 @@ This is a straightforward web application programmed with HTML, CSS, and JavaScr
 
 ## Features:
 
-- Click the "Generate Quote" button to display a random quote.
-- The page loads with a random quote displayed.
+- Click the "Generate Quote" button to display a random quote
+- The page loads with a random quote displayed
 
 ## Technologies Used:
 
