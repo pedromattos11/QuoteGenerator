@@ -7,7 +7,7 @@ This is a straightforward web application programmed with HTML, CSS, and JavaScr
 - Click the "Generate Quote" button to display a random quote.
 - The page loads with a random quote displayed.
 
-## Technologies Used
+## Technologies Used:
 
 - HTML
 - CSS
