@@ -13,7 +13,7 @@ This is a straightforward web application programmed with HTML, CSS, and JavaScr
 - CSS
 - JavaScript
 
-## How to Use:
+## How to Use
 
 1. Clone the repository.
 2. Open the `index.html` file in your web browser
