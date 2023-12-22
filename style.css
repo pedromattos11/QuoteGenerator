@@ -1,10 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-color: #b5d7dc; /* Cor de fundo agradável */
 }
 
 .container {
@@ -19,23 +20,29 @@ body {
     font-style: italic;
     font-size: 1.2em;
     margin-bottom: 20px;
+    color: #333; /* Cor do texto da citação */
 }
 
 #generate {
-    padding: 10px 20px;
+    padding: 12px 24px; /* Aumentei um pouco o padding para tornar o botão mais amigável */
     font-size: 1em;
     cursor: pointer;
+    background-color: #3498db; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão */
+    border: none;
+    border-radius: 4px; /* Cantos arredondados para um visual mais moderno */
+    transition: background-color 0.3s ease; /* Adicionando uma transição suave na mudança de cor */
 }
 
-/* Adicionando um estilo mais agradável ao botão */
 #generate:hover {
-    background-color: #ddd;
+    background-color: #2980b9; /* Cor de fundo do botão ao passar o mouse */
 }
 
 /* Fornecendo um estilo mais consistente aos elementos de margem */
 .margin-bottom {
     margin-bottom: 20px;
 }
+
 .margin-top {
     margin-top: 20px;
 }
