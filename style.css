@@ -26,3 +26,16 @@ body {
     font-size: 1em;
     cursor: pointer;
 }
+
+/* Adicionando um estilo mais agradável ao botão */
+#generate:hover {
+    background-color: #ddd;
+}
+
+/* Fornecendo um estilo mais consistente aos elementos de margem */
+.margin-bottom {
+    margin-bottom: 20px;
+}
+.margin-top {
+    margin-top: 20px;
+}
